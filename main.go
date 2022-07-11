@@ -1,4 +1,4 @@
-package goarea
+package golang-area
 
 import "fmt"
 
